@@ -8,5 +8,5 @@ require (
 	github.com/prometheus/common v0.34.0
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d // indirect
-	google.golang.org/protobuf v1.28.0 // indirect
+	google.golang.org/protobuf v1.29.1 // indirect
 )
